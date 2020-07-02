@@ -1,10 +1,13 @@
 # Miembros
 
+<<<<<<< HEAD
 
 * Nick Fury
+=======
+* Capitán America
+>>>>>>> 728263b7665c49f3f27e4786fa532f8a079a3117
 * Black panther
 * Black Widow
-* Capitán America
 * Capitán Marvel
 * Falcon
 * Hank Pym
